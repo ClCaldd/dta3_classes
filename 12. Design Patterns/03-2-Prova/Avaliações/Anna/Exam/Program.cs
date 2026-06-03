@@ -1,0 +1,1 @@
+﻿var guilda = new Guilda("");

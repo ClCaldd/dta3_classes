@@ -1,0 +1,14 @@
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\bin\Debug\net9.0\PROVA-DesignPatterns.exe
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\bin\Debug\net9.0\PROVA-DesignPatterns.deps.json
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\bin\Debug\net9.0\PROVA-DesignPatterns.runtimeconfig.json
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\bin\Debug\net9.0\PROVA-DesignPatterns.dll
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\bin\Debug\net9.0\PROVA-DesignPatterns.pdb
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\obj\Debug\net9.0\PROVA-DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\obj\Debug\net9.0\PROVA-DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\obj\Debug\net9.0\PROVA-DesignPatterns.AssemblyInfo.cs
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\obj\Debug\net9.0\PROVA-DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\obj\Debug\net9.0\PROVA-DesignPatterns.dll
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\obj\Debug\net9.0\refint\PROVA-DesignPatterns.dll
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\obj\Debug\net9.0\PROVA-DesignPatterns.pdb
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\obj\Debug\net9.0\PROVA-DesignPatterns.genruntimeconfig.cache
+C:\Users\disrct\Desktop\PROVA-DesignPatterns\obj\Debug\net9.0\ref\PROVA-DesignPatterns.dll

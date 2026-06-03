@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Seta.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Seta.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Seta.Application.dll": {}
+        }
+      },
+      "Seta.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Seta.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Seta.Domain.dll": {}
+        }
+      },
+      "Seta.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Seta.Application": "1.0.0",
+          "Seta.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Seta.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Seta.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seta.Application/1.0.0": {
+      "type": "project",
+      "path": "../Seta.Application/Seta.Application.csproj",
+      "msbuildProject": "../Seta.Application/Seta.Application.csproj"
+    },
+    "Seta.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Seta.Domain/Seta.Domain.csproj",
+      "msbuildProject": "../Seta.Domain/Seta.Domain.csproj"
+    },
+    "Seta.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Seta.Infrastructure/Seta.Infrastructure.csproj",
+      "msbuildProject": "../Seta.Infrastructure/Seta.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Seta.Application >= 1.0.0",
+      "Seta.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\disrct\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\4 - Aprendizes\\2 - Desenvolvimento de Sistemas\\6 - Soluções Digitais 2025\\1 - Arquivos Compartilhados\\13.SA\\01-SOLID & Layers\\07-Example\\Seta.Api\\Seta.Api.csproj",
+      "projectName": "Seta.Api",
+      "projectPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\4 - Aprendizes\\2 - Desenvolvimento de Sistemas\\6 - Soluções Digitais 2025\\1 - Arquivos Compartilhados\\13.SA\\01-SOLID & Layers\\07-Example\\Seta.Api\\Seta.Api.csproj",
+      "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
+      "outputPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\4 - Aprendizes\\2 - Desenvolvimento de Sistemas\\6 - Soluções Digitais 2025\\1 - Arquivos Compartilhados\\13.SA\\01-SOLID & Layers\\07-Example\\Seta.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\disrct\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\4 - Aprendizes\\2 - Desenvolvimento de Sistemas\\6 - Soluções Digitais 2025\\1 - Arquivos Compartilhados\\13.SA\\01-SOLID & Layers\\07-Example\\Seta.Application\\Seta.Application.csproj": {
+              "projectPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\4 - Aprendizes\\2 - Desenvolvimento de Sistemas\\6 - Soluções Digitais 2025\\1 - Arquivos Compartilhados\\13.SA\\01-SOLID & Layers\\07-Example\\Seta.Application\\Seta.Application.csproj"
+            },
+            "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\4 - Aprendizes\\2 - Desenvolvimento de Sistemas\\6 - Soluções Digitais 2025\\1 - Arquivos Compartilhados\\13.SA\\01-SOLID & Layers\\07-Example\\Seta.Infrastructure\\Seta.Infrastructure.csproj": {
+              "projectPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\4 - Aprendizes\\2 - Desenvolvimento de Sistemas\\6 - Soluções Digitais 2025\\1 - Arquivos Compartilhados\\13.SA\\01-SOLID & Layers\\07-Example\\Seta.Infrastructure\\Seta.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.117/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Medir a saúde da estrutura das classes
+Aplicar o princípio do menor conhecimento entre objetos (Demeter)
+
+Isolar responsabilidades (SRP)
+Estender código sem editar o que já existe (OCP)
+Respeitar o comportamento da base (LSP)
+Criar contratos enxutos (ISP)
+Depender de abstrações (DIP)
+Compreender organização de projeto seguindo a separação de responsabilidades (Domain, Application, Infra, Api).
+Compreender necessidade de segurança na transferencia de dados
+Compreender padronização de retorno com informações
+Compreender fluxo dentro da aplicação

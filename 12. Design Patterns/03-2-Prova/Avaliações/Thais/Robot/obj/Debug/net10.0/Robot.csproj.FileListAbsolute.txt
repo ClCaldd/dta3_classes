@@ -1,0 +1,15 @@
+C:\Users\thais\Desktop\design-patterns\Robot\bin\Debug\net10.0\Robot.exe
+C:\Users\thais\Desktop\design-patterns\Robot\bin\Debug\net10.0\Robot.deps.json
+C:\Users\thais\Desktop\design-patterns\Robot\bin\Debug\net10.0\Robot.runtimeconfig.json
+C:\Users\thais\Desktop\design-patterns\Robot\bin\Debug\net10.0\Robot.dll
+C:\Users\thais\Desktop\design-patterns\Robot\bin\Debug\net10.0\Robot.pdb
+C:\Users\thais\Desktop\design-patterns\Robot\obj\Debug\net10.0\Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\Desktop\design-patterns\Robot\obj\Debug\net10.0\Robot.AssemblyInfoInputs.cache
+C:\Users\thais\Desktop\design-patterns\Robot\obj\Debug\net10.0\Robot.AssemblyInfo.cs
+C:\Users\thais\Desktop\design-patterns\Robot\obj\Debug\net10.0\Robot.csproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\design-patterns\Robot\obj\Debug\net10.0\Robot.sourcelink.json
+C:\Users\thais\Desktop\design-patterns\Robot\obj\Debug\net10.0\Robot.dll
+C:\Users\thais\Desktop\design-patterns\Robot\obj\Debug\net10.0\refint\Robot.dll
+C:\Users\thais\Desktop\design-patterns\Robot\obj\Debug\net10.0\Robot.pdb
+C:\Users\thais\Desktop\design-patterns\Robot\obj\Debug\net10.0\Robot.genruntimeconfig.cache
+C:\Users\thais\Desktop\design-patterns\Robot\obj\Debug\net10.0\ref\Robot.dll

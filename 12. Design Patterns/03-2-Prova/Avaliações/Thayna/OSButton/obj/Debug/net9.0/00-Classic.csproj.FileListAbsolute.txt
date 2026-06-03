@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\bin\Debug\net9.0\00-Classic.exe
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\bin\Debug\net9.0\00-Classic.deps.json
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\bin\Debug\net9.0\00-Classic.runtimeconfig.json
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\bin\Debug\net9.0\00-Classic.dll
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\bin\Debug\net9.0\00-Classic.pdb
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\obj\Debug\net9.0\00-Classic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\obj\Debug\net9.0\00-Classic.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\obj\Debug\net9.0\00-Classic.AssemblyInfo.cs
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\obj\Debug\net9.0\00-Classic.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\obj\Debug\net9.0\00-Classic.sourcelink.json
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\obj\Debug\net9.0\00-Classic.dll
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\obj\Debug\net9.0\refint\00-Classic.dll
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\obj\Debug\net9.0\00-Classic.pdb
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\obj\Debug\net9.0\00-Classic.genruntimeconfig.cache
+C:\Users\disrct\Desktop\Design-Patters\02 -Factory\00-Classic\obj\Debug\net9.0\ref\00-Classic.dll

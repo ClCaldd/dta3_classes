@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seta.Api", "Seta.Api\Seta.Api.csproj", "{D794F9EB-4E1B-8E3B-18E2-63CBF672EC7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seta.Application", "Seta.Application\Seta.Application.csproj", "{A1C95112-94A8-77FA-8709-EF2CCC341CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seta.Domain", "Seta.Domain\Seta.Domain.csproj", "{7D29F80B-B744-FB72-9C28-7B8E6013017A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seta.Infrastructure", "Seta.Infrastructure\Seta.Infrastructure.csproj", "{7AFE5C47-973C-2EBB-FED6-5BB0739068C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D794F9EB-4E1B-8E3B-18E2-63CBF672EC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D794F9EB-4E1B-8E3B-18E2-63CBF672EC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D794F9EB-4E1B-8E3B-18E2-63CBF672EC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D794F9EB-4E1B-8E3B-18E2-63CBF672EC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C95112-94A8-77FA-8709-EF2CCC341CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C95112-94A8-77FA-8709-EF2CCC341CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C95112-94A8-77FA-8709-EF2CCC341CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C95112-94A8-77FA-8709-EF2CCC341CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D29F80B-B744-FB72-9C28-7B8E6013017A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D29F80B-B744-FB72-9C28-7B8E6013017A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D29F80B-B744-FB72-9C28-7B8E6013017A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D29F80B-B744-FB72-9C28-7B8E6013017A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFE5C47-973C-2EBB-FED6-5BB0739068C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFE5C47-973C-2EBB-FED6-5BB0739068C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFE5C47-973C-2EBB-FED6-5BB0739068C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFE5C47-973C-2EBB-FED6-5BB0739068C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5651F772-CFC5-49D3-88AC-0A59988319E2}
+	EndGlobalSection
+EndGlobal
